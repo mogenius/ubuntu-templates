@@ -1,5 +1,4 @@
-FROM ubuntu:22.10
-LABEL maintainer="https://github.com/rastasheep"
+FROM ubuntu:22.04
 
 RUN apt-get update
 
